@@ -1,4 +1,4 @@
-# Tensiryuu - Saint Dragon
+# Tensiryuu - Saint Dragon SFX patch
 
 Tensenryuu - Saint Dragon is infamous for its obnoxious SFX.
 
