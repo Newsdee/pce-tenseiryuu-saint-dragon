@@ -555,13 +555,6 @@ mcp_geargrafx_set_breakpoint_range(start="0807", end="0807", write=true, execute
 
 ---
 
-## Files
-
-| File | Description |
-|------|-------------|
-| `Tenseiryuu - Saint Dragon (Japan) (En).pce` | Original unmodified ROM |
-| `Tenseiryuu - Saint Dragon (Japan) (En) [No Fire SFX v4].pce` | **Current patch** — fire SFX silenced, explosions/music intact |
-| `Tenseiryuu - Saint Dragon (Japan) (En) [No Fire SFX v2].pce` | Superseded — patched SFX `$14` sites, silenced explosions too |
-| `Tenseiryuu - Saint Dragon (Japan) (En) [No Fire SFX v3].pce` | Superseded — v2 + dynamic table patch, still silenced explosions |
 | `waveforms.md` | All 11 PSG waveforms extracted with sample values and ASCII art |
 | `instructions.md` | This file |
+
